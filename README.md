@@ -1,6 +1,6 @@
 # **Kirsten Umali**
 
-I am a **Senior Android Robotics Developer** that specializing in Python, Linux, Java, and JavaScript.
+I am a **Senior Android Robotics Developer** that specializing in Python, Linux, Java, JavaScript, and Kotlin.
 
 ## Current Projects & Portfolio 
 - [Project 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
