@@ -1,4 +1,4 @@
-# I am **Kirsten Umali** here.
+# **Kirsten Umali**
 
 I am a **Senior Android Robotics Developer** that specializing in Python, Linux, Java, JavaScript, and so on.
 
