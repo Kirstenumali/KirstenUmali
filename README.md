@@ -7,7 +7,7 @@ I am a **Senior Android Robotics Developer** that specializing in Python, Linux,
 - [Youtube 2](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
 
 ## How to Reach Me
-- [INSTAGRAM](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
+- [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
 
 ## Technologies & Tools
 - Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker | AWS 2x | Terraform
