@@ -3,8 +3,8 @@
 I am a **Android Developer** that specialized in Python, Linux, Java, JavaScript, and Kotlin.
 
 ## Current Projects & Portfolio 
-- [Youtube 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
-- [Youtube 2](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
+- [Back-end Operation](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
+- [Front-end Operation](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
 
 ## How to Reach Me
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
