@@ -2,12 +2,13 @@
 
 I am a **Android Developer** that specialized in Python, Linux, Java, JavaScript, and Kotlin.
 
-## Current Projects & Portfolio 
+## Current Projects, and Portfolio 
 - [Back-end Operation](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
 - [Front-end Operation](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
 
-## How to Reach Me
+## How to Reach Me?
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
+- [LinkedIn](https://www.linkedin.com/in/kirsten-umali/)
 
 ## Specialized Technologies
 - Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker | AWS 2x | Terraform | Jupyter Notebook
