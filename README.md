@@ -1,6 +1,6 @@
 # **Kirsten Umali**
 
-I am a **Senior Android Developer** that specialized in Python, Linux, Java, JavaScript, and Kotlin.
+I am a **Android Developer** that specialized in Python, Linux, Java, JavaScript, and Kotlin.
 
 ## Current Projects & Portfolio 
 - [Youtube 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
