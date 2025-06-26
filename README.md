@@ -1,6 +1,6 @@
 # **Kirsten Umali**
 
-I am an **Android Developer** that specialize in Python, Linux, Java, JavaScript, & Kotlin.
+I am a ** Senior Android Developer** that specialize in Python, Linux, Java, JavaScript, and Kotlin.
 
 ## Current Projects, and Portfolio 
 - [Back-end Operations](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
@@ -11,8 +11,9 @@ I am an **Android Developer** that specialize in Python, Linux, Java, JavaScript
 - [LinkedIn](https://www.linkedin.com/in/kirsten-umali/)
 
 ## Specialized Technologies
-- Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker | AWS 2x | Terraform | Jupyter Notebook
+- Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker | AWS 2x | Terraform | Jupyter Notebook | ROS
 
 ## Fun Facts
 - I enjoy Integrating various APIs and tools to build ideal solutions that work.
 - I  appreciate devoting my free time to the coding process since it enables me to overcome difficult challenges.
+- I like to teach during my free time.
