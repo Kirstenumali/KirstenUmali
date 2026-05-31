@@ -1,6 +1,6 @@
 # **Kirsten Umali**
 
-I am a **Senior Robotics Engineer** that specialize in Python, Linux, Java, JavaScript, and Kotlin.
+I am a **Senior Robotics Engineer** that specialize in Python, Linux, Java, JavaScript, &d Kotlin.
 
 ## Current Projects, and Portfolio 
 - [Back-end Operations](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
