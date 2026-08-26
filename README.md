@@ -7,9 +7,9 @@ I am a **Senior Robotics Engineer** that specialize in Python, Linux, Java, Java
 - [Front-end Operations](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
 
 ## How to Reach Me?
+- [Website](https://kirstenumali.online/)
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
 - [LinkedIn](https://www.linkedin.com/in/kirsten-umali/)
-- [My Page](https://kirstenumali.online/)
 
 
 ## Specialized Technologies
